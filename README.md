@@ -1,4 +1,4 @@
-# Hi, I'm Lillie ➪ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lillie-redmond) 
+# Hi, I'm Lillie ➪ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lillie-redmond) 
 
 Currently a junior at the University of Southern California pursuing a Bachelor of Science in Computer Science<br><br>
 
